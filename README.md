@@ -1,5 +1,5 @@
 
-<img width="642" alt="축구" src="https://github.com/Hyeon-kki/SoccerMatchPrediction_Hackathon/assets/141913492/a47a378d-fdbe-4089-a23d-536afe9f23b9">
+<img width="900" alt="축구" src="https://github.com/Hyeon-kki/SoccerMatchPrediction_Hackathon/assets/141913492/a47a378d-fdbe-4089-a23d-536afe9f23b9">
 
 # SoccerMatchPrediction_Hackathon
 
