@@ -5,3 +5,4 @@ src/** linguist-documentation=false
 src/** linguist-vendored=false
 
 *.py linguist-vendored=false
+*.ipynb linguist-vendored=True
